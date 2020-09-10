@@ -1,6 +1,6 @@
 <br>
 
-### “ MAKE VISIBLE what, without YOU, might perhaps NEVER have been SEEN "  ― Robert Bresson<br>
+### “ MAKE VISIBLE what without YOU, might perhaps NEVER have been SEEN "  ― Robert Bresson<br>
 
 <img src="https://github.com/rohitsinghkcodes/rohitsinghkcodes/blob/master/githubCover.png">
 
