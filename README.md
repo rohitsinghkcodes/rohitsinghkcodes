@@ -4,7 +4,7 @@
 
 <img src="https://github.com/rohitsinghkcodes/rohitsinghkcodes/blob/master/githubCover.png">
 
-# Hey There <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width="90" height="90" />
+# Hey There<img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width="110" height="110" />
 
 #### **C++ || Python || Android App Development || Flutter Development || Competitive Coding**
 
