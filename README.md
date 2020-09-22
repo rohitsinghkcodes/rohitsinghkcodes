@@ -4,7 +4,7 @@
 
 <img src="https://github.com/rohitsinghkcodes/rohitsinghkcodes/blob/master/githubCover.png">
 
-# Hey There 👋
+# Hey There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 
 #### **C++ || Python || Android App Development || Flutter Development || Competitive Coding**
 
@@ -18,6 +18,9 @@ My name is **ROHIT KUMAR** and I am a **19** year old **Indian** programmer, per
 - ⚡ Fun fact: I love **Photography** and playing **Basketball**
 
 ### Get in Touch >
+<!---
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+--->
 
   <a href="https://twitter.com/rohit_ka_tweet">
     <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png" />
