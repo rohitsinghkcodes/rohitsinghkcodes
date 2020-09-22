@@ -19,14 +19,14 @@ My name is **ROHIT KUMAR** and I am a **19** year old **Indian** programmer, per
 
 ### Get in Touch >
 
-  <a href="https://twitter.com/rohit_ka_tweet" target="_blank">
+  <a href="https://twitter.com/rohit_ka_tweet" >
      <img src="https://media.giphy.com/media/M9O6ePwNJ58UMF1Rvq/giphy.gif" width="50" height="52" />
   </a>
-  <a href="https://www.instagram.com/rohit_ka_insta/" target="_blank">
+  <a href="https://www.instagram.com/rohit_ka_insta/">
     <img src="https://media.giphy.com/media/SwyH7oWi2vhkOjCwiJ/giphy.gif" width="50" height="52"/>
   </a>
-   <a href="https://www.linkedin.com/in/rohit-kumar-singh-702a451a4/" target="_blank">
-    <img src="https://github.com/rohitsinghkcodes/rohitsinghkcodes/blob/master/Readme_gifs/linkedinGif.gif" width="50" height="52" />
+   <a href="https://www.linkedin.com/in/rohit-kumar-singh-702a451a4/">
+    <img src="https://github.com/rohitsinghkcodes/rohitsinghkcodes/blob/master/Readme_gifs/linkedinGif.gif" width="55" height="55" />
   </a>
  <br><br><br> 
  
