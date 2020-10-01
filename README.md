@@ -4,16 +4,36 @@
 
 <img src="https://github.com/rohitsinghkcodes/rohitsinghkcodes/blob/master/githubCover.png">
 
-# <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width="110" height="110" />
+### C++ || Python || Android App Development || Flutter Development || Competitive Coding
 
-#### **C++ || Python || Android App Development || Flutter Development || Competitive Coding**
+<img align="right" alt="GIF" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" />
+
+
+### Brief Intro 
 
 My name is **ROHIT KUMAR** and I am a **19** year old **Indian** programmer, persuing my passion for programming from Krishna Engineering College, Ghaziabad.  I am a **passionate** programmer and a **creative** developer.  It's been **4 years** since I started my programming journey and throughout this journey i've learned a lot from my **failures**, **success** and from **others** as well.  I am still learning new things, new **technologies**, new **languages**,and pushing myself into every possible **development** areas of my **interest**.
 
 
-## Stats <img src="https://thumbs.gfycat.com/SpeedyPaltryAfricanharrierhawk-max-1mb.gif" width="25" height="20" />
+
+### Some sneak peeks <img src="https://media.giphy.com/media/EHBHm9Pd78jwA/source.gif" width="40" height="25" />
+- :memo: My 2 favourite languages are **C++** and **Python**
+
+- 🔭 I’m currently working on some **cross platform applications**
+
+- 🌱 I’m currently learning **Flutter Development** and **Machine Learning**
+
+- 👯 I’m looking to **collaborate** on some **creative** application **ideas**, for Android and iOS.
+
+- ⚡ Fun fact: I love **Photography** and playing **Basketball**
+
+
+<img src="https://antsyantwebdesign.com/wp-content/uploads/2019/04/antsyant-ani.gif"  />
+
+### GitHub Stats <img src="https://thumbs.gfycat.com/SpeedyPaltryAfricanharrierhawk-max-1mb.gif" width="25" height="20" />
 
 ![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohitsinghkcodes&show_icons=true&theme=radical)
+
+
 
 ### Languages and Tools >
 
@@ -92,14 +112,6 @@ My name is **ROHIT KUMAR** and I am a **19** year old **Indian** programmer, per
 </code>](https://www.microsoft.com/en-us/windows)
 
 
-
-
-### Some sneak peeks >
-- :memo: My 2 favourite languages are **C++** and **Python**
-- 🔭 I’m currently working on some **cross platform applications**
-- 🌱 I’m currently learning **Flutter Development** and **Machine Learning**
-- 👯 I’m looking to **collaborate** on some **creative** application **ideas**, for Android and iOS.
-- ⚡ Fun fact: I love **Photography** and playing **Basketball**
 
 
 ### Get in Touch >
