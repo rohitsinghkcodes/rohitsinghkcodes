@@ -4,12 +4,13 @@
 
 <img src="https://github.com/rohitsinghkcodes/rohitsinghkcodes/blob/master/githubCover.png">
 
-### C++ || Python || Android App Development || Flutter Development || Competitive Coding
+### C++ || Dart || Python || Android App Development || Flutter Development || Competitive Coding  
+<br><br><br>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" />
 
 
-### Brief Intro 
+### Brief Intro <img src="https://media.giphy.com/media/KE52mSdaYgGMWq67jo/giphy.gif" width="40" height="40" /> 
 
 My name is **ROHIT KUMAR** and I am a **19** year old **Indian** programmer, persuing my passion for programming from Krishna Engineering College, Ghaziabad.  I am a **passionate** programmer and a **creative** developer.  It's been **4 years** since I started my programming journey and throughout this journey i've learned a lot from my **failures**, **success** and from **others** as well.  I am still learning new things, new **technologies**, new **languages**,and pushing myself into every possible **development** areas of my **interest**.
 
@@ -26,16 +27,12 @@ My name is **ROHIT KUMAR** and I am a **19** year old **Indian** programmer, per
 
 - ⚡ Fun fact: I love **Photography** and playing **Basketball**
 
-
-<img src="https://antsyantwebdesign.com/wp-content/uploads/2019/04/antsyant-ani.gif"  />
-
 ### GitHub Stats <img src="https://thumbs.gfycat.com/SpeedyPaltryAfricanharrierhawk-max-1mb.gif" width="25" height="20" />
 
 ![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohitsinghkcodes&show_icons=true&theme=radical)
 
 
-
-### Languages and Tools >
+### Languages and Tools <img src="https://thumbs.gfycat.com/FarSecondhandAfricanparadiseflycatcher-small.gif" width="30" height="37" />
 
 [<code>
 <img alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
@@ -113,8 +110,7 @@ My name is **ROHIT KUMAR** and I am a **19** year old **Indian** programmer, per
 
 
 
-
-### Get in Touch >
+### Get in Touch <img src="https://media.giphy.com/media/Zcc3ZeeZ5ztdw1oNSB/giphy.gif" width="35" height="35" />
 
   <a href="https://twitter.com/rohit_ka_tweet" >
      <img src="https://media.giphy.com/media/M9O6ePwNJ58UMF1Rvq/giphy.gif" width="50" height="52" />
