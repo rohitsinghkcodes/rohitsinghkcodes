@@ -27,11 +27,12 @@ My name is **ROHIT KUMAR** and I am a **19** year old **Indian** programmer, per
 
 - ⚡ Fun fact: I love **Photography** and playing **Basketball**
 
+<br><br>
 ### GitHub Stats <img src="https://thumbs.gfycat.com/SpeedyPaltryAfricanharrierhawk-max-1mb.gif" width="25" height="20" />
 
 ![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohitsinghkcodes&show_icons=true&theme=radical)
 
-
+<br>
 ### Languages and Tools <img src="https://thumbs.gfycat.com/FarSecondhandAfricanparadiseflycatcher-small.gif" width="30" height="37" />
 
 [<code>
@@ -109,7 +110,7 @@ My name is **ROHIT KUMAR** and I am a **19** year old **Indian** programmer, per
 </code>](https://www.microsoft.com/en-us/windows)
 
 
-
+<br>
 ### Get in Touch <img src="https://media.giphy.com/media/Zcc3ZeeZ5ztdw1oNSB/giphy.gif" width="35" height="35" />
 
   <a href="https://twitter.com/rohit_ka_tweet" >
