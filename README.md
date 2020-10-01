@@ -4,14 +4,14 @@
 
 <img src="https://github.com/rohitsinghkcodes/rohitsinghkcodes/blob/master/githubCover.png">
 
-# Hey There<img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width="110" height="110" />
+# <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width="110" height="110" />
 
 #### **C++ || Python || Android App Development || Flutter Development || Competitive Coding**
 
 My name is **ROHIT KUMAR** and I am a **19** year old **Indian** programmer, persuing my passion for programming from Krishna Engineering College, Ghaziabad.  I am a **passionate** programmer and a **creative** developer.  It's been **4 years** since I started my programming journey and throughout this journey i've learned a lot from my **failures**, **success** and from **others** as well.  I am still learning new things, new **technologies**, new **languages**,and pushing myself into every possible **development** areas of my **interest**.
 
 
-## Stats <img src="https://thumbs.gfycat.com/SpeedyPaltryAfricanharrierhawk-max-1mb.gif" width="50" height="50" />
+## Stats <img src="https://thumbs.gfycat.com/SpeedyPaltryAfricanharrierhawk-max-1mb.gif" width="25" height="20" />
 
 ![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohitsinghkcodes&show_icons=true&theme=radical)
 
