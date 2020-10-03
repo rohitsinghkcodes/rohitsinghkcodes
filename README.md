@@ -15,7 +15,6 @@
 My name is **ROHIT KUMAR** and I am a **19** year old **Indian** programmer, persuing my passion for programming from Krishna Engineering College, Ghaziabad.  I am a **passionate** programmer and a **creative** developer.  It's been **4 years** since I started my programming journey and throughout this journey i've learned a lot from my **failures**, **success** and from **others** as well.  I am still learning new things, new **technologies**, new **languages**,and pushing myself into every possible **development** areas of my **interest**.
 
 
-
 ### Some sneak peeks <img src="https://media.giphy.com/media/EHBHm9Pd78jwA/source.gif" width="40" height="25" />
 - :memo: My 2 favourite languages are **C++** and **Python**
 
@@ -29,8 +28,15 @@ My name is **ROHIT KUMAR** and I am a **19** year old **Indian** programmer, per
 
 <br>
 
-
+<!--
 <img align="left" src="https://spidyhackx.github.io/cv/images/programmer.gif" width="550" height="400"/>
+-->
+
+  
+<br><br>
+### GitHub Stats <img src="https://thumbs.gfycat.com/SpeedyPaltryAfricanharrierhawk-max-1mb.gif" width="25" height="20" />
+
+![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohitsinghkcodes&show_icons=true&theme=radical)
 
 ### Languages and Tools <img src="https://thumbs.gfycat.com/FarSecondhandAfricanparadiseflycatcher-small.gif" width="30" height="37" />
 
@@ -123,11 +129,7 @@ My name is **ROHIT KUMAR** and I am a **19** year old **Indian** programmer, per
     <img src="https://github.com/rohitsinghkcodes/rohitsinghkcodes/blob/master/Readme_gifs/linkedinGif.gif" width="55" height="55" />
   </a>
   
-  
-<br><br>
-### GitHub Stats <img src="https://thumbs.gfycat.com/SpeedyPaltryAfricanharrierhawk-max-1mb.gif" width="25" height="20" />
 
-![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohitsinghkcodes&show_icons=true&theme=radical)
  <br><br><br> 
  
 ###### Sorry for typos (if any)
