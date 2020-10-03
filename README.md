@@ -25,14 +25,9 @@ My name is **ROHIT KUMAR** and I am a **19** year old **Indian** programmer, per
 - 👯 I’m looking to **collaborate** on some **creative** application **ideas**, for Android and iOS.
 
 - ⚡ Fun fact: I love **Photography** and playing **Basketball**
-
-<br>
-
 <!--
 <img align="left" src="https://spidyhackx.github.io/cv/images/programmer.gif" width="550" height="400"/>
--->
-
-  
+-->  
 <br><br>
 ### GitHub Stats <img src="https://thumbs.gfycat.com/SpeedyPaltryAfricanharrierhawk-max-1mb.gif" width="25" height="20" />
 
@@ -113,8 +108,6 @@ My name is **ROHIT KUMAR** and I am a **19** year old **Indian** programmer, per
 [<code>
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
-
-
 <br>
 
 ### Get in Touch <img src="https://media.giphy.com/media/Zcc3ZeeZ5ztdw1oNSB/giphy.gif" width="35" height="35" />
