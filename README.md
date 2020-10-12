@@ -4,8 +4,13 @@
 
 <img src="https://github.com/rohitsinghkcodes/rohitsinghkcodes/blob/master/githubCover.png">
 
-### C++ || Dart || Python || Android App Development || Flutter Development || Competitive Coding  
-<br><br><br>
+###   C++ || Dart || Python || Android App Development || Flutter Development || Competitive Coding  
+
+<br>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsinghkcodes" alt="rohitsinghkcodes" /></a> </p>
+<br>
+<br><br>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" />
 
