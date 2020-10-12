@@ -31,7 +31,13 @@ My name is **ROHIT KUMAR** and I am a **19** year old **Indian** programmer, per
 <br><br>
 ### GitHub Stats <img src="https://thumbs.gfycat.com/SpeedyPaltryAfricanharrierhawk-max-1mb.gif" width="25" height="20" />
 
-![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohitsinghkcodes&show_icons=true&theme=radical)
+<!--![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohitsinghkcodes&show_icons=true&theme=radical) -->
+
+<p><img align="left"  width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsinghkcodes&layout=compact&theme=radical" alt="rohitsinghkcodes" /></p>
+
+<p>&nbsp;<img align="center"width="400" src="https://github-readme-stats.vercel.app/api?username=rohitsinghkcodes&show_icons=true&theme=radical" alt="rohitsinghkcodes" /></p>
+
+
 
 ### Languages and Tools <img src="https://thumbs.gfycat.com/FarSecondhandAfricanparadiseflycatcher-small.gif" width="30" height="37" />
 
