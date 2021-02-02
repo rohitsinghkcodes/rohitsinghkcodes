@@ -17,7 +17,7 @@
 
 ### Brief Intro <img src="https://media.giphy.com/media/KE52mSdaYgGMWq67jo/giphy.gif" width="40" height="40" /> 
 
-My name is **ROHIT KUMAR** and I am a **19** year old **Indian** programmer, persuing my passion for programming from Krishna Engineering College, Ghaziabad.  I am a **passionate** programmer and a **creative** developer.  It's been **4 years** since I started my programming journey and throughout this journey i've learned a lot from my **failures**, **success** and from **others** as well.  I am still learning new things, new **technologies**, new **languages**,and pushing myself into every possible **development** areas of my **interest**.
+My name is **ROHIT KUMAR** and I am an **Indian** programmer, pursuing my passion for programming from Krishna Engineering College, Ghaziabad.  I am a **passionate** programmer and a **creative** developer.  It's been **4 years** since I started my programming journey and throughout this journey i've learned a lot from my **failures**, **success** and from **others** as well.  I am still learning new things, new **technologies**, new **languages**,and pushing myself into every possible **development** areas of my **interest**.
 
 
 ### Some sneak peeks <img src="https://media.giphy.com/media/EHBHm9Pd78jwA/source.gif" width="40" height="25" />
