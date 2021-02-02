@@ -82,7 +82,13 @@ My name is **ROHIT KUMAR** and I am an **Indian** programmer, pursuing my passio
 [<code>
 <img alt="Android Studio" width="26px" src="https://img.pngio.com/filebreezeicons-apps-48-android-studiosvg-wikimedia-commons-android-studio-png-1200_1200.png" />
 </code>](https://developer.android.com/studio)
+[<code>
+<img alt="Adobe Illustrtor" width="26px" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" />
+</code>](https://www.adobe.com/in/products/illustrator.html?gclid=CjwKCAiAjeSABhAPEiwAqfxURUaJ4seQu1XIhL8dhPp7qMnLQmo5ajkoMgC7GPocX4vAYbrgM-BgpxoCrlIQAvD_BwE&sdid=SBNHMR64&mv=search&ef_id=CjwKCAiAjeSABhAPEiwAqfxURUaJ4seQu1XIhL8dhPp7qMnLQmo5ajkoMgC7GPocX4vAYbrgM-BgpxoCrlIQAvD_BwE:G:s&s_kwcid=AL!3085!3!248235017693!e!!g!!adobe%20illustrator!221172068!17525759228)
 
+[<code>
+<img alt="Filmora" width="26px" src="https://img.icons8.com/dusk/64/000000/filmora9.png" />
+</code>](https://filmora.wondershare.net/filmora-video-editor.html?gclid=CjwKCAiAjeSABhAPEiwAqfxURS4eoX_qy9tb0KGmRyfIPl9CvSQWW3wWr3Yr4NqgxhgXmLzwiv52WxoCND4QAvD_BwE)
 [<code>
 <img alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png" />
 </code>](https://flutter.dev/?gclid=Cj0KCQjwqrb7BRDlARIsACwGad7fLFLhNrtWir1ZQ71ixeHENgE9Em9E8RaNU7sSd9-YPE1mSif29HQaApMxEALw_wcB&gclsrc=aw.ds)
