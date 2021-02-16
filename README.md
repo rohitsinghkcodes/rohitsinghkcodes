@@ -6,8 +6,10 @@
 
 <img src="https://raw.githubusercontent.com/rohitsinghkcodes/RESOURCES/master/Images/cover%204.png">
 
-###   C++ || Dart || Python || Android App Development || Flutter Development || Competitive Coding  
+<br>
 
+###  ||||   C++ || Dart || Python || Flutter App Development || Android App Development || Competitive Coding   ||||
+ 
 <br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsinghkcodes" alt="rohitsinghkcodes" /></a> </p>
