@@ -1,7 +1,7 @@
 <br>
  <div align=”center”>
  
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“ MAKE VISIBLE what without YOU, might perhaps NEVER have been SEEN "  ― Robert Bresson<br><br>
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“ MAKE VISIBLE what without YOU, might perhaps NEVER have been SEEN "  ― Robert Bresson
 
 <!--<img src="https://github.com/rohitsinghkcodes/rohitsinghkcodes/blob/master/githubCover.png">-->
 
