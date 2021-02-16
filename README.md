@@ -7,7 +7,7 @@
 
 <img src="https://raw.githubusercontent.com/rohitsinghkcodes/RESOURCES/master/Images/cover%204.png">
 
-<br><br>
+<br>
 
 ###  &nbsp;&nbsp;&nbsp;&nbsp; C++ || Dart || Python || Flutter App Development || Android App Development || Competitive Coding
  
