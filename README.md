@@ -2,7 +2,9 @@
 
 ### “ MAKE VISIBLE what without YOU, might perhaps NEVER have been SEEN "  ― Robert Bresson<br>
 
-<img src="https://github.com/rohitsinghkcodes/rohitsinghkcodes/blob/master/githubCover.png">
+<!--<img src="https://github.com/rohitsinghkcodes/rohitsinghkcodes/blob/master/githubCover.png">-->
+
+<img src="https://raw.githubusercontent.com/rohitsinghkcodes/RESOURCES/master/Images/cover2.png">
 
 ###   C++ || Dart || Python || Android App Development || Flutter Development || Competitive Coding  
 
