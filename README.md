@@ -1,6 +1,7 @@
 <br>
-
-### “ MAKE VISIBLE what without YOU, might perhaps NEVER have been SEEN "  ― Robert Bresson<br><br>
+ <div align=”center”>
+ 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“ MAKE VISIBLE what without YOU, might perhaps NEVER have been SEEN "  ― Robert Bresson<br><br>
 
 <!--<img src="https://github.com/rohitsinghkcodes/rohitsinghkcodes/blob/master/githubCover.png">-->
 
@@ -8,7 +9,7 @@
 
 <br>
 
-###  ||||   C++ || Dart || Python || Flutter App Development || Android App Development || Competitive Coding   ||||
+###  &nbsp;&nbsp;&nbsp;&nbsp; C++ || Dart || Python || Flutter App Development || Android App Development || Competitive Coding
  
 <br>
 
