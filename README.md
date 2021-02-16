@@ -43,9 +43,9 @@ My name is **ROHIT KUMAR** and I am an **Indian** programmer, pursuing my passio
 
 <!--![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohitsinghkcodes&show_icons=true&theme=radical) -->
 
-<p><img align="left" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsinghkcodes&layout=compact&theme=radical" alt="rohitsinghkcodes" /></p>
+<p><img align="center" height="195" width="900" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsinghkcodes&layout=compact&theme=radical" alt="rohitsinghkcodes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitsinghkcodes&show_icons=true&theme=radical" alt="rohitsinghkcodes" /></p>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" width="600" src="https://github-readme-stats.vercel.app/api?username=rohitsinghkcodes&show_icons=true&theme=radical" alt="rohitsinghkcodes" /></p>
 
 <br>
 
