@@ -25,7 +25,7 @@
 
 My name is **ROHIT KUMAR** and I am an **Indian** programmer, pursuing my passion for programming from Krishna Engineering College, Ghaziabad.  I am a **passionate** programmer and a **creative** developer.  It's been **4 years** since I started my programming journey and throughout this journey i've learned a lot from my **failures**, **success** and from **others** as well.  I am still learning new things, new **technologies**, new **languages**,and pushing myself into every possible **development** areas of my **interest**.
 
-<br><br><br>
+<br><br><br><br>
 
 <img align="right" height="300"  alt="GIF" src="https://media.giphy.com/media/KzccVmHEzmNLbc3Tv2/giphy.gif" />
 
@@ -45,7 +45,7 @@ My name is **ROHIT KUMAR** and I am an **Indian** programmer, pursuing my passio
 <br><br>
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GITHB STATISTICS<img src="https://thumbs.gfycat.com/SpeedyPaltryAfricanharrierhawk-max-1mb.gif" width="25" height="20" />
 
-<br><br>
+<br>
 <!--![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohitsinghkcodes&show_icons=true&theme=radical) -->
 
 <p><img align="center" height="195" width="900" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsinghkcodes&layout=compact&theme=radical" alt="rohitsinghkcodes" /></p>
