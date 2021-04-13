@@ -17,29 +17,33 @@
 <br>
 <br><br>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" />
+<img align="left" height="300"  alt="GIF" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" />
 
+<br>
 
-### Brief Intro <img src="https://media.giphy.com/media/KE52mSdaYgGMWq67jo/giphy.gif" width="40" height="40" /> 
+### BRIE INTRODUCTION <img src="https://media.giphy.com/media/KE52mSdaYgGMWq67jo/giphy.gif" width="40" height="40" />
 
 My name is **ROHIT KUMAR** and I am an **Indian** programmer, pursuing my passion for programming from Krishna Engineering College, Ghaziabad.  I am a **passionate** programmer and a **creative** developer.  It's been **4 years** since I started my programming journey and throughout this journey i've learned a lot from my **failures**, **success** and from **others** as well.  I am still learning new things, new **technologies**, new **languages**,and pushing myself into every possible **development** areas of my **interest**.
 
+<br><br><br>
 
-### Some sneak peeks <img src="https://media.giphy.com/media/EHBHm9Pd78jwA/source.gif" width="40" height="25" />
+<img align="right" height="300"  alt="GIF" src="https://media.giphy.com/media/KzccVmHEzmNLbc3Tv2/giphy.gif" />
+
+### SOME SNEAK PEEKS <img src="https://media.giphy.com/media/EHBHm9Pd78jwA/source.gif" width="40" height="25" />
 - :memo: My 2 favourite languages are **C++** and **Python**
 
 - 🔭 I’m currently working on some **cross platform applications**
 
 - 🌱 I’m currently learning **Flutter Development** and **Machine Learning**
 
-- 👯 I’m looking to **collaborate** on some **creative** application **ideas**, for Android and iOS.
+- 👯 I’m looking to **collaborate** on some **creative** app. **ideas**, for Android and iOS.
 
-- ⚡ Fun fact: I love **Photography** and playing **Basketball**
+- ⚡ I love **Photography** and playing **Basketball**
 <!--
 <img align="left" src="https://spidyhackx.github.io/cv/images/programmer.gif" width="550" height="400"/>
 -->  
 <br><br>
-### GitHub Stats <img src="https://thumbs.gfycat.com/SpeedyPaltryAfricanharrierhawk-max-1mb.gif" width="25" height="20" />
+<p align="center"> <b>GITHB STATISTICS</b> <img src="https://thumbs.gfycat.com/SpeedyPaltryAfricanharrierhawk-max-1mb.gif" width="25" height="20" /></p>
 
 <!--![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohitsinghkcodes&show_icons=true&theme=radical) -->
 
@@ -49,7 +53,7 @@ My name is **ROHIT KUMAR** and I am an **Indian** programmer, pursuing my passio
 
 <br>
 
-### Languages and Tools <img src="https://thumbs.gfycat.com/FarSecondhandAfricanparadiseflycatcher-small.gif" width="30" height="37" />
+### LANGUAGES AND TOOLS<img src="https://thumbs.gfycat.com/FarSecondhandAfricanparadiseflycatcher-small.gif" width="30" height="37" />
 
 [<code>
 <img alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
@@ -132,7 +136,7 @@ My name is **ROHIT KUMAR** and I am an **Indian** programmer, pursuing my passio
 </code>](https://www.microsoft.com/en-us/windows)
 <br>
 
-### Get in Touch <img src="https://media.giphy.com/media/Zcc3ZeeZ5ztdw1oNSB/giphy.gif" width="35" height="35" />
+### GET IN TOUCH<img src="https://media.giphy.com/media/Zcc3ZeeZ5ztdw1oNSB/giphy.gif" width="35" height="35" />
 
   <a href="https://twitter.com/rohit_ka_tweet" >
      <img src="https://media.giphy.com/media/M9O6ePwNJ58UMF1Rvq/giphy.gif" width="50" height="52" />
