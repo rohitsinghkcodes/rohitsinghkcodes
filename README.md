@@ -20,14 +20,13 @@
 <img align="left" height="300"  alt="GIF" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" />
 
 <br>
-
+<!-- 
 ### BRIEF INTRODUCTION <img src="https://media.giphy.com/media/KE52mSdaYgGMWq67jo/giphy.gif" width="40" height="40" />
+ -->
+<!-- My name is **ROHIT KUMAR** and I am an **Indian** programmer, pursuing my passion for programming from Krishna Engineering College, Ghaziabad.  I am a **passionate** programmer and a **creative** developer.  It's been **4 years** since I started my programming journey and throughout this journey i've learned a lot from my **failures**, **success** and from **others** as well.  I am still learning new things, new **technologies**, new **languages**,and pushing myself into every possible **development** areas of my **interest**. -->
 
-My name is **ROHIT KUMAR** and I am an **Indian** programmer, pursuing my passion for programming from Krishna Engineering College, Ghaziabad.  I am a **passionate** programmer and a **creative** developer.  It's been **4 years** since I started my programming journey and throughout this journey i've learned a lot from my **failures**, **success** and from **others** as well.  I am still learning new things, new **technologies**, new **languages**,and pushing myself into every possible **development** areas of my **interest**.
-
-<br><br><br><br>
-
-<img align="right" height="300"  alt="GIF" src="https://media.giphy.com/media/KzccVmHEzmNLbc3Tv2/giphy.gif" />
+<!-- 
+<img align="right" height="300"  alt="GIF" src="https://media.giphy.com/media/KzccVmHEzmNLbc3Tv2/giphy.gif" /> -->
 
 ### SOME SNEAK PEEKS <img src="https://media.giphy.com/media/EHBHm9Pd78jwA/source.gif" width="40" height="25" />
 - :memo: My 2 favourite languages are **C++** and **Python**
@@ -38,7 +37,7 @@ My name is **ROHIT KUMAR** and I am an **Indian** programmer, pursuing my passio
 
 - 👯 I’m looking to **collaborate** on some **creative** app. **ideas**, for Android and iOS.
 
-- ⚡ I love **Photography** and playing **Basketball**
+- ⚡ I love to **draw**, watch **anime** and play **basketball**.
 <!--
 <img align="left" src="https://spidyhackx.github.io/cv/images/programmer.gif" width="550" height="400"/>
 -->  
