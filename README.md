@@ -5,7 +5,7 @@
 
 <!--<img src="https://github.com/rohitsinghkcodes/rohitsinghkcodes/blob/master/githubCover.png">-->
 
-<img src="https://raw.githubusercontent.com/rohitsinghkcodes/RESOURCES/master/Images/cover%204.png">
+<!-- <img src="https://raw.githubusercontent.com/rohitsinghkcodes/RESOURCES/master/Images/cover%204.png"> -->
 
 <br>
 
