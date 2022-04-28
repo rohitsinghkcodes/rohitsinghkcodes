@@ -151,6 +151,9 @@
    <a href="https://www.linkedin.com/in/rohit-kumar-singh-702a451a4/">
     <img src="https://github.com/rohitsinghkcodes/rohitsinghkcodes/blob/master/Readme_gifs/linkedinGif.gif" width="60" height="60" />
   </a>
+ <a href="https://medium.com/@rohit_kumar_singh">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="60" height="60" />
+  </a>
   
 
  <br><br><br> 
