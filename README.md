@@ -4,6 +4,8 @@
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“ MAKE VISIBLE what without YOU, might perhaps NEVER have been SEEN "  ― Robert Bresson
 
 <!--<img src="https://github.com/rohitsinghkcodes/rohitsinghkcodes/blob/master/githubCover.png">-->
+ 
+ ![Rohit's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohitsinghkcodes&theme=elegant)
 
 <!-- <img src="https://raw.githubusercontent.com/rohitsinghkcodes/RESOURCES/master/Images/cover%204.png"> -->
 
