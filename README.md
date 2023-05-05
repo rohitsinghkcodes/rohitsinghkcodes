@@ -24,8 +24,8 @@
 - 🔭 I’m currently working on some **cross platform applications**
 
 - 🌱 I’m currently learning **Flutter Development** and **Machine Learning**
-
-- 👯 I’m looking to **collaborate** on some **creative** app. **ideas**, for Android and iOS.
+<!-- 
+- 👯 I’m looking to **collaborate** on some **creative** app. **ideas**, for Android and iOS. -->
 
 - ⚡ I love to **draw**, watch **anime** and play **basketball**.
 <!--
