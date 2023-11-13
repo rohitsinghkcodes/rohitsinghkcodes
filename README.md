@@ -1,8 +1,5 @@
 <br>
  <div align=”center”>
- 
-![Rohit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rohitsinghkcodes&theme=xcode)
-
 <br>
 
 ###  &nbsp;&nbsp;&nbsp;&nbsp; C++ || Dart || Python || Flutter App Development || Android App Development || Competitive Coding
@@ -34,73 +31,31 @@
 <br><br><br>
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GITHB STATISTICS<img src="https://thumbs.gfycat.com/SpeedyPaltryAfricanharrierhawk-max-1mb.gif" width="25" height="20" />
+<br/>
 
-<br>
-<!--![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohitsinghkcodes&show_icons=true&theme=radical) -->
+<p align="center">
+  <a href="https://github.com/rohitsinghkcodes">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsinghkcodes&theme=radical&border=7F3FBF&background=0D1117" alt="Rohit's GitHub streak"/>
+  </a>
+</p>
 
-<p><img align="center" height="195" width="900" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsinghkcodes&layout=compact&theme=radical" alt="rohitsinghkcodes" /></p>
+<p align="center">
+  <a href="https://github.com/rohitsinghkcodes">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitsinghkcodes&theme=radical" alt="Rohit's GitHub Contribution"/>
+  </a>
+</p>
 
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" width="600" src="https://github-readme-stats.vercel.app/api?username=rohitsinghkcodes&show_icons=true&theme=radical" alt="rohitsinghkcodes" /></p>
+<a> 
+    <a href="https://github.com/rohitsinghkcodes"><img alt="Rohit's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rohitsinghkcodes&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/rohitsinghkcodes"><img alt="Rohit's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rohitsinghkcodes&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
-<br>
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  LANGUAGES AND TOOLS<img src="https://thumbs.gfycat.com/FarSecondhandAfricanparadiseflycatcher-small.gif" width="30" height="37" />
-<br>
-
- <img alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
- &nbsp;&nbsp;
-<img alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-&nbsp;&nbsp;
-<img alt="Dart" width="26px" src="https://img.icons8.com/color/48/000000/dart.png" />
-&nbsp;&nbsp;
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
-&nbsp;&nbsp;
-<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
- &nbsp;&nbsp;
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
- &nbsp;&nbsp;
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
- &nbsp;&nbsp;
-<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
- &nbsp;&nbsp;
-<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
- &nbsp;&nbsp;
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
- &nbsp;&nbsp;
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
- &nbsp;&nbsp;
-<img alt="Android Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" />
- &nbsp;&nbsp;
-<img alt="Adobe Illustrtor" width="26px" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" />
- &nbsp;&nbsp;
-<img alt="Filmora" width="26px" src="https://img.icons8.com/dusk/64/000000/filmora9.png" />
- &nbsp;&nbsp;
-<img alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png" />
- &nbsp;&nbsp;
-<img alt="AnaConda" width="26px" src="https://www.clipartkey.com/mpngs/m/227-2271689_transparent-anaconda-logo-png.png">
- &nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Jupyter Notebook" width="26px" src="https://assets-global.website-files.com/5bc7838f11643023e1993a6c/5c802890dd4478f300774b9b_883px-Jupyter_logo.svg.png">
- &nbsp;&nbsp;
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
- &nbsp;&nbsp;
-<img alt="github" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
- &nbsp;&nbsp;
-<img alt="Stack Overflow" width="26px" src="https://img.icons8.com/color/48/000000/stackoverflow.png">
- &nbsp;&nbsp;
-<img alt="GeeksForGeekS" width="26px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png">
- &nbsp;&nbsp;
-<img alt="Mozilla Firefox" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_firefox-256.png">
- &nbsp;&nbsp;
-<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
-  &nbsp;&nbsp;
-<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
- &nbsp;&nbsp;
-<img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
- &nbsp;&nbsp;
-<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
- 
+![Rohit's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitsinghkcodes&custom_title=Rohit's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
  <br><br>
+
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    GET IN TOUCH <img src="https://media.giphy.com/media/Zcc3ZeeZ5ztdw1oNSB/giphy.gif" width="35" height="35" />
 
 <br>
@@ -116,8 +71,3 @@
  <a href="https://medium.com/@rohit_kumar_singh">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="60" height="60" />
   </a>
-  
-
- <br><br><br> 
- 
-###### Sorry for typos (if any)
