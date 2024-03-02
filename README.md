@@ -8,37 +8,34 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsinghkcodes&theme=monokai&row=1&column=6" alt="rohitsinghkcodes" /></a> </p>
 <br>
-<br><br>
-
+<!--
 <img align="left" height="300"  alt="GIF" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" />
 
-<br>
-
-
+<!--
 ### SOME SNEAK PEEKS <img src="https://media.giphy.com/media/EHBHm9Pd78jwA/source.gif" width="40" height="25" />
 - :memo: My 2 favourite languages are **C++** and **Python**
 
 - 🔭 I’m currently working on some **cross platform applications**
 
 - 🌱 I’m currently learning **Flutter Development** and **Machine Learning**
-<!-- 
-- 👯 I’m looking to **collaborate** on some **creative** app. **ideas**, for Android and iOS. -->
+
+- 👯 I’m looking to **collaborate** on some **creative** app. **ideas**, for Android and iOS. 
 
 - ⚡ I love to **draw**, watch **anime** and play **basketball**.
-<!--
+
 <img align="left" src="https://spidyhackx.github.io/cv/images/programmer.gif" width="550" height="400"/>
--->  
+ 
 <br><br><br>
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GITHB STATISTICS<img src="https://thumbs.gfycat.com/SpeedyPaltryAfricanharrierhawk-max-1mb.gif" width="25" height="20" />
-<br/>
-
+<br/>-->
+<!--
 <p align="center">
   <a href="https://github.com/rohitsinghkcodes">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsinghkcodes&theme=radical&border=7F3FBF&background=0D1117" alt="Rohit's GitHub streak"/>
   </a>
 </p>
-
+-->
 <p align="center">
   <a href="https://github.com/rohitsinghkcodes">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitsinghkcodes&theme=radical" alt="Rohit's GitHub Contribution"/>
