@@ -4,6 +4,9 @@
  
   
 ###  C++ || Dart || Python || Flutter App Development || Android App Development || Competitive Coding
+<br>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsinghkcodes&theme=monokai&row=1&column=6" alt="rohitsinghkcodes" /></a> </p>
 
 <br>
 
@@ -11,8 +14,12 @@
 
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsinghkcodes&theme=monokai&row=1&column=6" alt="rohitsinghkcodes" /></a> </p>
+![Rohit's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitsinghkcodes&custom_title=Rohit's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
 <br>
+
+## GITHUB STATS
 
 <p align="center">
   <a href="https://github.com/rohitsinghkcodes">
@@ -26,15 +33,11 @@
   <a href="https://github.com/rohitsinghkcodes"><img alt="Rohit's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rohitsinghkcodes&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" /></a>
   <br/>
 </a>
-
-
-![Rohit's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitsinghkcodes&custom_title=Rohit's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
- <br><br>
-
-### GET IN TOUCH <img src="https://media.giphy.com/media/Zcc3ZeeZ5ztdw1oNSB/giphy.gif" width="35" height="35" />
-
 <br>
+
+## GET IN TOUCH
+
+
   <a href="https://twitter.com/rohit_ka_tweet" >
      <img src="https://media.giphy.com/media/M9O6ePwNJ58UMF1Rvq/giphy.gif" width="55" height="57" />
   </a>
