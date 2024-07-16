@@ -3,7 +3,7 @@
  [![](https://visitcount.itsvg.in/api?id=rohitsinghkcodes&icon=6&color=0)](https://visitcount.itsvg.in)
  
   
-###  C++ || Dart || Python || Flutter App Development || Android App Development || Competitive Coding
+###  Full Stack Developer || Flutter App Developer || Competitive Coding || C++ || JavaScript || Python 
 <br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsinghkcodes&theme=monokai&row=1&column=6" alt="rohitsinghkcodes" /></a> </p>
