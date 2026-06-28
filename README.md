@@ -28,13 +28,7 @@
 </p>
 
 
-<a href="https://github.com/rohitsinghkcodes">
-  <img
-    height="190em"
-    src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rohitsinghkcodes&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
-    alt="Rohit's GitHub Stats"
-  />
-</a>
+
 
 <a href="https://github.com/rohitsinghkcodes">
   <img
