@@ -15,63 +15,55 @@ Backend & API Specialist | MERN, Azure, Docker & DevOps | Scalable Web & Real-Ti
 
 <br>
 
-![Rohit's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitsinghkcodes&custom_title=Rohit's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-<br>
-
-## GITHUB STATS
-
-<p align="center">
-  <a href="https://github.com/rohitsinghkcodes">
-    <img width="770em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitsinghkcodes&theme=radical" alt="Rohit's GitHub Contribution"/>
-  </a>
-</p>
-
-
-
-
-<!-- <a href="https://github.com/rohitsinghkcodes">
-  <img
-    height="190em"
-    src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rohitsinghkcodes&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
-    alt="Rohit's GitHub Stats"
-  />
-</a> -->
 <a href="https://git.io/streak-stats">
   <img
-    height="190em"
+    height="207em" 
    src="https://github-readme-streak-stats-tau-ruddy.vercel.app?user=Quicksilver151&theme=tokyonight&hide_border=true&fire=EB5454" alt="GitHub Streak"
+  />
+</a>
+<a href="https://git.io/streak-stats">
+  <img
+    height="207em"
+   src="https://github-readme-stats.vercel.app/api?username=rohitsinghkcodes&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Stats"
   />
 </a>
 
 <a href="https://github.com/rohitsinghkcodes">
+    <img height="188em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitsinghkcodes&theme=tokyonight" alt="Rohit's GitHub Contribution"/>
+  </a>
+
+<a href="https://github.com/rohitsinghkcodes">
   <img
-    height="190em"
-    src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rohitsinghkcodes&langs_count=8&layout=compact&theme=dracula&border_color=0d1117&bg_color=1a1b27&title_color=F85D7F&icon_color=F8D866"
+    height="188em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsinghkcodes&layout=compact&theme=tokyonight&hide_border=true"
     alt="Rohit's Top Languages"
   />
 </a>
 <br>
 
-## GET IN TOUCH
+![Rohit's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitsinghkcodes&custom_title=Rohit's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=7F3FBF&point=7F3FBF&area=true&hide_border=true)
 
+<br/>
 
   <a href="https://twitter.com/rohit_ka_tweet" >
      <img src="https://media.giphy.com/media/M9O6ePwNJ58UMF1Rvq/giphy.gif" width="55" height="57" />
   </a>
-  <a href="https://www.instagram.com/inking.out.loud_/">
+  <a href="https://www.instagram.com/rohh.singh/">
     <img src="https://media.giphy.com/media/SwyH7oWi2vhkOjCwiJ/giphy.gif" width="55" height="57"/>
   </a>
    <a href="https://www.linkedin.com/in/rohit5swd/">
     <img src="https://github.com/rohitsinghkcodes/rohitsinghkcodes/blob/master/Readme_gifs/linkedinGif.gif" width="60" height="60" />
   </a>
- <a href="https://pin.it/39dUepCfi">
+ <a href="https://www.pinterest.com/this_dev_inks/">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRldWhnajhmdjh0NXR3aWU0OTYwNnU1bWRheW53cG0zdHF5bDlkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lmg74qh0gEDoNChOJM/giphy.gif" width="55" height="57" />
   </a>
  <a href="https://medium.com/@rohit_kumar_singh">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="60" height="60" />
   </a>
-
-
-
- </div>
+<a href="https://leetcode.com/your_username/](https://leetcode.com/u/rohitsinghkcodes/">
+  <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" width="55" height="55" padding="10"/>
+</a>
+<a href="https://www.geeksforgeeks.org/profile/rohit5swd?tab=articles">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS87dran3-vfo7nzCLadrxPnLFjVfuG5CPr4S2g_2Nj_Qi_Q6Xe24M0Ki4&s=10" width="55" height="55" padding="10"/>
+</a>
+</div>
