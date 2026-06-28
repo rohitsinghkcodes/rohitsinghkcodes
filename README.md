@@ -5,6 +5,12 @@
   
 ###  Full Stack Developer || Flutter App Developer || Competitive Coding || C++ || JavaScript || Python 
 <br>
+<p align="center">
+  
+ 
+  
+  </br>
+  </br>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsinghkcodes&theme=monokai&row=1&column=6" alt="rohitsinghkcodes" /></a> </p> -->
 
@@ -32,18 +38,24 @@
 
 
 
-<a href="https://github.com/rohitsinghkcodes">
+<!-- <a href="https://github.com/rohitsinghkcodes">
   <img
     height="190em"
     src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rohitsinghkcodes&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
     alt="Rohit's GitHub Stats"
+  />
+</a> -->
+<a href="https://git.io/streak-stats">
+  <img
+    height="190em"
+   src="https://github-readme-streak-stats-tau-ruddy.vercel.app?user=Quicksilver151&theme=tokyonight&hide_border=true&fire=EB5454" alt="GitHub Streak"
   />
 </a>
 
 <a href="https://github.com/rohitsinghkcodes">
   <img
     height="190em"
-    src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rohitsinghkcodes&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rohitsinghkcodes&langs_count=8&layout=compact&theme=dracula&border_color=0d1117&bg_color=1a1b27&title_color=F85D7F&icon_color=F8D866"
     alt="Rohit's Top Languages"
   />
 </a>
