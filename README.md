@@ -60,7 +60,7 @@ Backend & API Specialist | MERN, Azure, Docker & DevOps | Scalable Web & Real-Ti
  <a href="https://medium.com/@rohit_kumar_singh">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="45" height="45"  />
   </a>
-<a href="https://leetcode.com/your_username/">
+<a href="https://leetcode.com/rohitsinghkcodes/">
   <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" width="45" height="45"  padding="10"/>
 </a>
 <a href="https://www.geeksforgeeks.org/profile/rohit5swd?tab=articles">
