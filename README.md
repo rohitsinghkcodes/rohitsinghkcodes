@@ -1,12 +1,14 @@
 <div align="center">
- 
- [![](https://visitcount.itsvg.in/api?id=rohitsinghkcodes&icon=6&color=0)](https://visitcount.itsvg.in)
- 
+  <!-- visit counter
+ <img  width="200em" margin="0px" src="https://count.getloli.com/@rohitsinghkcodes?name=rohitsinghkcodes&theme=rule34&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="rohitsinghkcodes" />
+  -->
   
 ###  Full Stack Developer || Flutter App Developer || Competitive Coding || C++ || JavaScript || Python 
 <br>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsinghkcodes&theme=monokai&row=1&column=6" alt="rohitsinghkcodes" /></a> </p> -->
+
+
 
 <br>
 
