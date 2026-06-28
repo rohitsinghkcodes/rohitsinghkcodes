@@ -46,24 +46,24 @@ Backend & API Specialist | MERN, Azure, Docker & DevOps | Scalable Web & Real-Ti
 <br/>
 
   <a href="https://twitter.com/rohit_ka_tweet" >
-     <img src="https://media.giphy.com/media/M9O6ePwNJ58UMF1Rvq/giphy.gif" width="55" height="57" />
+     <img src="https://media.giphy.com/media/M9O6ePwNJ58UMF1Rvq/giphy.gif" width="45" height="45" />
   </a>
   <a href="https://www.instagram.com/rohh.singh/">
-    <img src="https://media.giphy.com/media/SwyH7oWi2vhkOjCwiJ/giphy.gif" width="55" height="57"/>
+    <img src="https://media.giphy.com/media/SwyH7oWi2vhkOjCwiJ/giphy.gif" width="45" height="45" />
   </a>
    <a href="https://www.linkedin.com/in/rohit5swd/">
-    <img src="https://github.com/rohitsinghkcodes/rohitsinghkcodes/blob/master/Readme_gifs/linkedinGif.gif" width="60" height="60" />
+    <img src="https://github.com/rohitsinghkcodes/rohitsinghkcodes/blob/master/Readme_gifs/linkedinGif.gif" width="45" height="45"  />
   </a>
  <a href="https://www.pinterest.com/this_dev_inks/">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRldWhnajhmdjh0NXR3aWU0OTYwNnU1bWRheW53cG0zdHF5bDlkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lmg74qh0gEDoNChOJM/giphy.gif" width="55" height="57" />
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRldWhnajhmdjh0NXR3aWU0OTYwNnU1bWRheW53cG0zdHF5bDlkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lmg74qh0gEDoNChOJM/giphy.gif" width="45" height="45"  />
   </a>
  <a href="https://medium.com/@rohit_kumar_singh">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="60" height="60" />
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="45" height="45"  />
   </a>
 <a href="https://leetcode.com/your_username/](https://leetcode.com/u/rohitsinghkcodes/">
-  <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" width="55" height="55" padding="10"/>
+  <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" width="45" height="45"  padding="10"/>
 </a>
 <a href="https://www.geeksforgeeks.org/profile/rohit5swd?tab=articles">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS87dran3-vfo7nzCLadrxPnLFjVfuG5CPr4S2g_2Nj_Qi_Q6Xe24M0Ki4&s=10" width="55" height="55" padding="10"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS87dran3-vfo7nzCLadrxPnLFjVfuG5CPr4S2g_2Nj_Qi_Q6Xe24M0Ki4&s=10" width="45" height="45"  padding="10"/>
 </a>
 </div>
