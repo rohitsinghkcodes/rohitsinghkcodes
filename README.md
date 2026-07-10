@@ -17,12 +17,12 @@ Backend & API Specialist | MERN, Azure, Docker & DevOps | Scalable Web & Real-Ti
 
 <a href="https://git.io/streak-stats">
   <img
-    height="162em" 
+    height="160em" 
    src="https://github-readme-streak-stats-tau-ruddy.vercel.app?user=Quicksilver151&theme=tokyonight&hide_border=true&fire=EB5454" alt="GitHub Streak"
   />
 </a>
 <a href="https://github.com/rohitsinghkcodes">
-    <img height="162em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitsinghkcodes&theme=tokyonight" alt="Rohit's GitHub Contribution"/>
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitsinghkcodes&theme=tokyonight" alt="Rohit's GitHub Contribution"/>
   </a>
 
   
