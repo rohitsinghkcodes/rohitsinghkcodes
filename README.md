@@ -17,20 +17,23 @@ Backend & API Specialist | MERN, Azure, Docker & DevOps | Scalable Web & Real-Ti
 
 <a href="https://git.io/streak-stats">
   <img
-    height="173em" 
+    height="165em" 
    src="https://github-readme-streak-stats-tau-ruddy.vercel.app?user=Quicksilver151&theme=tokyonight&hide_border=true&fire=EB5454" alt="GitHub Streak"
   />
 </a>
-<a href="https://git.io/streak-stats">
+<a href="https://github.com/rohitsinghkcodes">
+    <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitsinghkcodes&theme=tokyonight" alt="Rohit's GitHub Contribution"/>
+  </a>
+
+  
+<!-- <a href="https://git.io/streak-stats">
   <img
     height="173em"
    src="https://github-readme-stats.vercel.app/api?username=rohitsinghkcodes&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Stats"
   />
 </a>
 
-<a href="https://github.com/rohitsinghkcodes">
-    <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitsinghkcodes&theme=tokyonight" alt="Rohit's GitHub Contribution"/>
-  </a>
+
 
 <a href="https://github.com/rohitsinghkcodes">
   <img
@@ -38,7 +41,7 @@ Backend & API Specialist | MERN, Azure, Docker & DevOps | Scalable Web & Real-Ti
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsinghkcodes&layout=compact&theme=tokyonight&hide_border=true"
     alt="Rohit's Top Languages"
   />
-</a>
+</a> -->
 <br>
 
 ![Rohit's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitsinghkcodes&custom_title=Rohit's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=7F3FBF&point=7F3FBF&area=true&hide_border=true)
