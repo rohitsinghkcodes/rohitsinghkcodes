@@ -43,9 +43,14 @@ Backend & API Specialist | MERN, Azure, Docker & DevOps | Scalable Web & Real-Ti
   />
 </a> -->
 <br>
+<br>
 
-![Rohit's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitsinghkcodes&custom_title=Rohit's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=7F3FBF&point=7F3FBF&area=true&hide_border=true)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitsinghkcodes/rohitsinghkcodes/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitsinghkcodes/rohitsinghkcodes/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/rohitsinghkcodes/rohitsinghkcodes/output/pacman-contribution-graph.svg">
+</picture>
 <br/>
 
   <a href="https://twitter.com/rohit_ka_tweet" >
