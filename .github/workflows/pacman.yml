@@ -1,0 +1,36 @@
+
+name: Generate Pac-Man Contribution Graph
+
+on:
+  workflow_dispatch:
+    inputs:
+      github_username:
+        description: "GitHub username (leave blank for repository owner)"
+        required: false
+        type: string
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Pac-Man Graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ inputs.github_username || github.repository_owner }}
+          games: "pacman"
+
+      - name: Publish SVG
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
